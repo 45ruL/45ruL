@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<br/>
+<br/>
+Hi! My name is Asrul. I started my programming journey in university and have focused on front-end development, building responsive web and mobile applications. Proficient in React and various other technologies, with a solid understanding of UI/UX design and collaborative project work. 😄
+<br/>
+<br/>
 
 ### Github Statistic
 <p align="left">
